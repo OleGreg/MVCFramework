@@ -20,7 +20,7 @@
 
 <br>
 
-<p>Don't have an account? <a href="/signup">Sign in!</a></p>
+<p>Don't have an account? <a href="/signup">Sign up!</a></p>
 
 <br>
 
