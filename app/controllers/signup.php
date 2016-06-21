@@ -40,7 +40,7 @@ class signup extends Controller
         }
         else
         {
-            echo "<p style='color:red'>Name is already in use. Please choose another name.</p>";
+            echo "<div class='alert alert-danger' role='alert'>Name is already in use. Please choose another name.</div>";
             $this->view('signup/index');
         }
     }
