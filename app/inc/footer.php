@@ -6,8 +6,17 @@
     <br>
     <br>
 
-
-
+<!--    <pre>-->
+<!--     --><?php
+////                print_r($params);
+////                print_r($this);
+//                print_r($_SESSION);
+//                print_r($_REQUEST['url']);
+////                print_r($this->controller);
+////                print_r($this->model);
+//            ?>
+<!--        </pre>-->
+    
 </div>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
